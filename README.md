@@ -1,5 +1,3 @@
-[toc]
-
 # Python PM
 ##1.1 PM infomation
 **This PM is practice python**
