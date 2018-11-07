@@ -1,5 +1,5 @@
 # Python PM
-##1.1 PM infomation
+## 1.1 PM infomation
 **This PM is practice python**
 ```
 Part one
@@ -10,15 +10,15 @@ Part one
 Part two
    Text Editor:
 ```
-##1.2 PM Requirements Analysis
-1. **System:Ubuntu**
+## 1.2 PM Requirements Analysis
+1. **System：Ubuntu**
 2. **Python version: pyhon 3**
 
-###1.3 Install
+## 1.3 Soft or package 
  - **apt-get install python3-venv**
  - **apt install git**
 
-##1.3 How to create repo to github with python venv
+## 1.4 How to create repo to github with python venv
 
 **1. Create the python3 venv**
 >root@ubuntu:~/Desktop# **`cd Python_flask/`**
@@ -91,9 +91,9 @@ Branch master set up to track remote branch master from origin.
 root@ubuntu:~/Desktop/Python_flask# 
 
 
-##1.4 Setup the webpage with flask
+## 1.6 Setup the webpage with flask
 **1.  git clone https://github.com/miguelgrinberg/flasky.git** 
 
 
-##1.4 Links
+## 1.7 Links
 - Website: https://github.com/sevenzhang7/Python_flask.git
