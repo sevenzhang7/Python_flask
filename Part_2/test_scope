@@ -1,0 +1,24 @@
+
+Practice One
+
+Part one
+	create a public repo on github.com
+	Add README, LICENSE, requirements.txt
+	Add some practice py file for Python Basic Syntax
+		- 数据类型和变量 - 字符串和编码 - 使用list和tuple - 条件判断 - 循环 - 使用dict和set - 函数
+
+Part two
+将CSV文件里的内容，按照要求导入到一个Execl文件中
+要求：
+（1）CSV 文件内容见附件
+（2）生成的Execl文件内容：
+（2.1）sheet名称是“库存状态”
+（2.2）表头（第一行），背景色“蓝色”，字体“粗体”
+（2.3）其余内容按照“序号”排序
+（2.4）“状态”为“无货”的记录，在“类型”上标志背景色“黄色”
+（2.5）“价格”为“空”的记录，在“类型”上标志背景色“红色”
+（3）最好找到一个可以解析csv文件的第三方库。
+常见问题：
+（1）上文给出的CSV文件样例，其分隔符是全角逗号，并不是英文的半角逗号。
+（2）CSV文件存储的时候，如果选用UTF-8格式存储，在读取的时候也要使用UTF-8模式。
+（3）字符编码格式在 文件存储、读取 和 python 语言内部都是有很多需要注意的地方的，这在以后应用时要小心。
